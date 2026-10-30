@@ -18,7 +18,7 @@ For more information about the Aquifer platform, data, and metadata formats, vis
 
 ## Sources
 
-The _Biblica® Open Housa Contemporary Bible 2020_, also known as the _Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™ (Bible)_ is copyright © 2009, 2020 by [Biblica, Inc.](https://biblica.com/). All rights reserved. 
+The _Biblica® Open Igbo Contemporary Bible 2020_, also known as the _Biblica® Baịbụlụ Nsọ nʼIgbo Ndị Ugbu a nke dịrị onye ọbụla ịgụ (Bible)_ is copyright © 1980, 1988, 2019, 2020 by [Biblica, Inc](https://biblica.com/). All rights reserved. 
 
 This edition is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
